@@ -10,8 +10,8 @@ resumé (recent public OSS merges):
 
 https://github.com/oven-sh/bun/pull/22417
 
-https://github.com/beyondkmp/electron-builder/pull/30
-
 https://github.com/electron/electron/pull/48376
 
 https://github.com/microsoft/vscode/pull/267724/
+
+https://github.com/beyondkmp/electron-builder/pull/30

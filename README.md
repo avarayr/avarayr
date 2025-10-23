@@ -8,6 +8,8 @@
 
 resumé (recent public OSS merges): 
 
+https://github.com/oven-sh/bun/pull/23719
+
 https://github.com/oven-sh/bun/pull/22417
 
 https://github.com/electron/electron/pull/48376
